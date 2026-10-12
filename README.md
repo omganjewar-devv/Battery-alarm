@@ -1,6 +1,6 @@
-# 🔋 MacBook Battery Alarm
+#  MacBook Battery Alarm
 
-A simple Python script that notifies you when your MacBook battery reaches 80% while charging.
+A simple Python script that notifies you when our MacBook battery reaches 80% while charging.
 
 ## ✨ Features
 
@@ -14,11 +14,6 @@ A simple Python script that notifies you when your MacBook battery reaches 80% w
 
 - macOS
 - Python 3
-- MacBook with a battery
+- MacBook with a battery :)
 
-## 🚀 How to Run
-
-### 1. Clone the repository
-
-```bash
-git clone YOUR_REPOSITORY_URL
+The idea is simple: get a notification when my MacBook battery reaches 80% while charging, so I can unplug it instead of leaving it charging unnecessarily.
